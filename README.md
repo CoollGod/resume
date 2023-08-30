@@ -13,6 +13,11 @@ Main server is responsible for the site with the image that was displayed using 
 Grafana displays the disk, CPU and RAM statuses of each server.
 Also OpenVPN running on this server.
 
+![image](https://github.com/CoollGod/resume/assets/89750194/03ff3acc-fac2-4d6e-834a-81f680c4728b)
+![image](https://github.com/CoollGod/resume/assets/89750194/2dc6d37b-078c-4a7b-9972-168a50ac2576)
+
+
+
 Web server is responsible for blog via Wordpress on Apache2 as web server and nginx as proxy, and mail services(Postfix + Devocot)
 
 Elk server is responsible for elasticsearch + kibana stack and postgresql database for tables in it.
