@@ -1,6 +1,9 @@
 # Hello and welcome to my Job search repository
 Here you can find my self-study project, which contains:
 
+![image](https://github.com/CoollGod/resume/assets/89750194/5ccadc66-766e-4204-8212-10b596766298)
+
+
 3 servers with various services: 
 main: Zabbix 6.0, Postgresql-14, nginx, Grafana 9.4.7, Ansible, filebeat 8.7.0, OpenVPN-server.
 web: nginx, Apache, PHP, Zabbix-agent, filebeat 8.7.0
